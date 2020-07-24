@@ -14,8 +14,14 @@ Here you willl find methods to create tasks, targets, scanners and retrieve resu
 # Sample Usage
 
 ```
+import (
+	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp"
+	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/client"
+	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/connections"
+)
+```
 
-
+```
 // Connect to GVMD
 conn, err := connections.NewUnixConnection("/tmp/openvas-socks/gvmd.sock")
 if err != nil {
