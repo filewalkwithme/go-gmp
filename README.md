@@ -6,6 +6,10 @@ Here you willl find methods to create tasks, targets, scanners and retrieve resu
 
 * This library is compatible with the latest version of Openvas: 7.0
 
+# Reference
+
+https://docs.greenbone.net/API/GMP/gmp-9.0.html
+
 # Documentation
 - https://godoc.org/github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp
 - https://godoc.org/github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/client
