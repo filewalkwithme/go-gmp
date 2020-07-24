@@ -1,7 +1,8 @@
 # go-openvas-gmp
 
 Library to interact with Openvas 7.0 using the [gmp protocol](https://docs.greenbone.net/API/GMP/gmp-9.0.html) (Greenbone Management Protocol, `version 9.0`)
-Here you find methods to create tasks, targets, scanners and retrieve results.
+
+Here you willl find methods to create tasks, targets, scanners and retrieve results.
 
 * This library is compatible with the latest version of Openvas: 7.0
 
