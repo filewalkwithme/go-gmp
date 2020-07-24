@@ -6,9 +6,16 @@ Here you willl find methods to create tasks, targets, scanners and retrieve resu
 
 * This library is compatible with the latest version of Openvas: 7.0
 
+# Documentation
+- https://godoc.org/github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp
+- https://godoc.org/github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/client
+- https://godoc.org/github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/connections
+
 # Sample Usage
 
 ```
+
+
 // Connect to GVMD
 conn, err := connections.NewUnixConnection("/tmp/openvas-socks/gvmd.sock")
 if err != nil {
