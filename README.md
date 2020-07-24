@@ -1,5 +1,7 @@
 # go-openvas-gmp
 
+[![Build Status](https://travis-ci.org/filewalkwithme/go-openvas-gmp.svg?branch=master)](https://travis-ci.org/filewalkwithme/go-openvas-gmp)
+
 Library to interact with Openvas 7.0 using the [gmp protocol](https://docs.greenbone.net/API/GMP/gmp-9.0.html) (Greenbone Management Protocol, `version 9.0`)
 
 Here you willl find methods to create tasks, targets, scanners and retrieve results.
