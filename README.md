@@ -88,6 +88,8 @@ sleep 60
 ls /tmp/openvas-socks/gvmd.sock
 ```
 
+Confirm that Openvas is available at https://127.0.0.1
+
 Next, we will execute the sample application avaible under the `examples` folder:
 ```
 cd examples
