@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp"
 )
 
 type client struct {

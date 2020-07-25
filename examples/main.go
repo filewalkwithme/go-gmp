@@ -5,9 +5,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp"
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/client"
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/connections"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp/client"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp/connections"
 )
 
 // https://docs.greenbone.net/API/GMP/gmp-9.0.html

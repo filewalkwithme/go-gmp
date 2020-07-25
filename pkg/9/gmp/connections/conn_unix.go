@@ -3,8 +3,8 @@ package connections
 import (
 	"net"
 
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp"
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp/connections/internal/implementation"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp/connections/internal/implementation"
 )
 
 // NewUnixConnection returns an instance of `gmp.Connection`. The `socket` parameter refers to the file path of the Unix Socket
