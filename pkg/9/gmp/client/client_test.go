@@ -3,7 +3,7 @@ package client
 import (
 	"testing"
 
-	"github.com/filewalkwithme/go-openvas-gmp/pkg/9/gmp"
+	"github.com/filewalkwithme/go-gmp/pkg/9/gmp"
 )
 
 type mockConn struct{}
