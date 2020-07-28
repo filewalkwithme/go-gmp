@@ -76,7 +76,7 @@ if err != nil {
 
 # Sample Application
 
-First, you will need to start an Greenbone Security Assistant instance. For this example we will use [Openvas-in-the-box](https://github.com/filewalkwithme/openvas-in-the-box.git), a ready to use GSA Docker image. We are going to expose the GVMD Unix Socket under `/tmp/openvas-socks/gvmd.sock`
+First, you will need to start an Greenbone Security Assistant instance. For this example we will use [gvm-openvas-docker](https://github.com/filewalkwithme/gvm-openvas-docker.git), a ready to use GSA Docker image. We are going to expose the GVMD Unix Socket under `/tmp/openvas-socks/gvmd.sock`
 
 ```
 git clone https://github.com/filewalkwithme/openvas-in-the-box.git
